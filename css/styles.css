@@ -310,6 +310,9 @@ address {
     font-size: 14px;
     line-height: 1.71;
 }
+.address-link{
+    color: var(--primary-white-color);
+}
 
 /* Страница "Портфолио" */
 
